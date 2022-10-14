@@ -1,8 +1,6 @@
-// eslint-disable-next-line no-unused-vars
-import { dataTotal } from '../src/data';
+import { dataTotal } from '../data';
 
 test('dataTotal sort', () => {
-  // eslint-disable-next-line no-unused-vars
   const data = [
     { name: 'мечник', health: 10 },
     { name: 'маг', health: 100 },
